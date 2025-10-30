@@ -2,7 +2,8 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
+- Qual problema resolve?
+* Organizamos e centralizamos os dados de importação e exportação, com foco em São Paulo, para facilitar análises municipais e estaduais.
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
 
