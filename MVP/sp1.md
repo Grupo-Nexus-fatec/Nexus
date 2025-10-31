@@ -37,11 +37,11 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como desenvolvedor, quero unificar os dados de exportação e importação dos anos 2023, 2024 e 2025. | Alta       | 12 Horas   |
-| US2 | Como desenvolvedor, quero unificar os dados da tabela para visualização em colunas e linhas. | Alta       | 5 pontos   |
-| US3 | Como desenvolvedor, quero consolidar os dados das tabelas para visualizar os nomes invés dos códigos. | Alta       | 5 pontos   |
-| US4 | Como desenvolvedor, quero inserir colunas que incluam dados como categoria, peso, frete e modal utilizado. | Alta       | 5 pontos   |
-| US5 | Como cliente, quero visualizar os dados tratados em um dashboard interativo. | Alta       | 5 pontos   |
-| US6 | Como cliente, quero filtros que permitam a visualização de dados de importação e exportação de cada estado e município do Brasil. | Alta       | 5 pontos   |
+| US2 | Como desenvolvedor, quero unificar os dados da tabela para visualização em colunas e linhas. | Alta       | 8 Horas  |
+| US3 | Como desenvolvedor, quero consolidar os dados das tabelas para visualizar os nomes invés dos códigos. | Alta       | 8 Horas   |
+| US4 | Como desenvolvedor, quero inserir colunas que incluam dados como categoria, peso, frete e modal utilizado. | Alta       | 6 Horas   |
+| US5 | Como cliente, quero visualizar os dados tratados em um dashboard interativo. | Alta       | 5 Horas  |
+| US6 | Como cliente, quero filtros que permitam a visualização de dados de importação e exportação de cada estado e município do Brasil. | Alta       | 5 Horas   |
 
 ---
 
