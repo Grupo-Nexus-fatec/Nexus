@@ -84,6 +84,6 @@
 ## 📂 Anexos / Evidências
 - Prints das telas do dashboard.  
 - Fluxo de importação e transformação dos dados no Power BI.  
-- Protótipos ou vídeo do painel interativo.
+- vídeo do painel interativo : https://youtube.com/shorts/MlL4QTYSgIs.
 
 
