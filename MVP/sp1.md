@@ -36,7 +36,7 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como desenvolvedor, quero unificar os dados de exportação e importação dos anos 2023, 2024 e 2025. | Alta       | 5 pontos   |
+| US1 | Como desenvolvedor, quero unificar os dados de exportação e importação dos anos 2023, 2024 e 2025. | Alta       | 12 Horas   |
 | US2 | Como desenvolvedor, quero unificar os dados da tabela para visualização em colunas e linhas. | Alta       | 5 pontos   |
 | US3 | Como desenvolvedor, quero consolidar os dados das tabelas para visualizar os nomes invés dos códigos. | Alta       | 5 pontos   |
 | US4 | Como desenvolvedor, quero inserir colunas que incluam dados como categoria, peso, frete e modal utilizado. | Alta       | 5 pontos   |
