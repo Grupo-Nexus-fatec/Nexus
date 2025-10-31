@@ -5,10 +5,9 @@
 - Qual problema resolve?
   * Centralizamos e organizamos os dados de importação e exportação de São Paulo para facilitar as análises locais e estaduais.
 - Qual hipótese será validada?
-  * É possível organizar e consolidar os dados de importação e exportação de São Paulo e demais estados para permitir análises precisas.
+  * Os dados de importação e exportação de São Paulo e de outros estados podem ser organizados e integrados para gerar análises precisas.
 - Qual valor será entregue ao usuário final?
-  * Dados de importação e exportação organizados e consolidados, facilitando análises e decisões estratégicas.
-
+  * Dados de importação e exportação estruturados e integrados, promovendo análises precisas e apoio a decisões estratégicas.
 ---
 
 ## 📝 Descrição da Solução
