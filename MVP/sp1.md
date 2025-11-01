@@ -2,7 +2,6 @@
 
 ## 🎯 Objetivo do MVP
 
-<p align="justify"> 
 - Qual problema resolve?  
   * Centralizar e organizar os dados importados e tratados no Python, integrando-os ao Power BI para facilitar análises estratégicas.  
 - Qual hipótese será validada?  
@@ -14,7 +13,6 @@
 
 ## 📝 Descrição da Solução
 
-<p align="justify">
 - Funcionalidades principais incluídas:  
   * Importação de dados tratados no Python.  
   * Transformação e filtragem de tabelas inconsistentes.  
@@ -32,6 +30,8 @@
 
 <p align="justify">
 * Carlos Bastos/José Jaétis: Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
+
+ <p align="justify">
 * Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
 
 ---
