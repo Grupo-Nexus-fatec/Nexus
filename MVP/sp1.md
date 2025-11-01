@@ -82,8 +82,17 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints das telas do dashboard.  
-- Fluxo de importação e transformação dos dados no Power BI.  
+- Prints das telas do dashboard.
+
+---
+
+- Fluxo de importação e transformação dos dados no Power BI.
+![WhatsApp Image 2025-10-31 at 20 55 12](https://github.com/user-attachments/assets/bf7ada1c-81f2-4390-92e9-446c6a3d62e3)
+![WhatsApp Image 2025-10-31 at 20 55 13](https://github.com/user-attachments/assets/6d24722a-51b1-418b-9b8c-8bf14cef374a)
+![WhatsApp Image 2025-10-31 at 20 55 13 (1)](https://github.com/user-attachments/assets/2d8faa67-ff32-4335-a84c-beff34848cd2)
+
+---
+
 - vídeo do painel interativo : https://youtube.com/shorts/MlL4QTYSgIs.
 
 
