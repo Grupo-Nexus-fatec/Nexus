@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ---
 
-<h1 align="center">📊 Projeto (API)</h1>
+📊 Projeto (API)</h1>
 
 <p align="justify">
 O projeto tem como objetivo desenvolver uma plataforma de <b>Business Intelligence (BI)</b> para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do <b>Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>.  
