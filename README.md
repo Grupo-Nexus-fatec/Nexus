@@ -75,7 +75,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 29/09/2025 | Concluida | [MVP](https://github.com//Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp1.md) | 
-|02|  03/11/2025| a fazer|[MVP](https://https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) | 
+|02|  03/11/2025| a fazer|[MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) | 
 |03| dd/mm/aaaa | a fazer|[MVP](https://) | 
 |Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
 
