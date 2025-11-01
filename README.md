@@ -11,7 +11,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP 
+O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence (BI) para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
+A ferramenta busca apoiar a tomada de decisão ao oferecer informações claras sobre municípios em ascensão, estagnação ou declínio no mercado internacional.
+O desenvolvimento está inserido em um projeto pedagógico baseado na Metodologia API, que promove o aprendizado por meio de problemas reais (RPBL), validação externa e inteligência ágil, seguindo os princípios CDIO (Conceber, Desenvolver, Implementar e Operar).
+Os resultados devem respeitar o Aviso Legal da Fatec SJC e seguir o cronograma definido com datas de kickoff e sprints.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
