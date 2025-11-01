@@ -2,6 +2,8 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
+---
+
 # Índice
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
@@ -10,11 +12,14 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
+---
+
 # Projeto (API) 
 O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence (BI) para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
 A ferramenta busca apoiar a tomada de decisão ao oferecer informações claras sobre municípios em ascensão, estagnação ou declínio no mercado internacional.
 O desenvolvimento está inserido em um projeto pedagógico baseado na Metodologia API, que promove o aprendizado por meio de problemas reais (RPBL), validação externa e inteligência ágil, seguindo os princípios CDIO (Conceber, Desenvolver, Implementar e Operar).
-Os resultados devem respeitar o Aviso Legal da Fatec SJC e seguir o cronograma definido com datas de kickoff e sprints.
+
+---
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -26,8 +31,12 @@ Os resultados devem respeitar o Aviso Legal da Fatec SJC e seguir o cronograma d
 |  Team Member  | Davi kitada                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davi-pais-340989359) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviPaisKitada)   |
 |  Team Member  | Mariana Leal       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create)          |
 
+---
+
 # Objetivo do Projeto
 O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos dos Estados Brasileiros e de municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional. 
+
+---
 
 ## Tecnologias Utilizadas
 
@@ -37,7 +46,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
  ### Tecnologias da Informação 
 <img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/99ba87a2-66ce-421e-b96a-2ffc79e35db0" /><img width="40" height="40" alt="icons8-poder-bi-2021-48" src="https://github.com/user-attachments/assets/1f3c633a-190c-4bde-ba36-977af8be7e26" />
 
-
+---
 
 # Backlog do produto
 
@@ -119,6 +128,8 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
    °Ranking em valor (R$ FOB).
 
    °Gráfico comparativo lado a lado.
+
+---
 
 # Registro das Sprints
 
