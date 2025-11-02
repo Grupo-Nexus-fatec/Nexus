@@ -10,7 +10,7 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do Produto](#backlog-do-produto)
 * [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
+
 
 ---
 
