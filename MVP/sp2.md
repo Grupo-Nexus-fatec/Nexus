@@ -64,24 +64,29 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize comparativos e rankings de forma clara.  
-- O sistema deve registrar e organizar os dados importados corretamente.  
-- Métricas coletadas: tempo de visualização, número de erros na exibição, feedback dos usuários.
+- As dashboards devem ser totalmente interativas, permitindo a análise cruzada entre diferentes gráficos e indicadores.  
+- O sistema deve apresentar dados consistentes, sem falhas na importação ou divergências entre os conjuntos de dados.  
+- O layout visual deve ser claro, responsivo e esteticamente alinhado com o tema do projeto Nexus.  
+- O Power BI deve possibilitar a comparação entre estados, municípios, categorias de itens e países importadores de forma intuitiva.  
+- Todas as visualizações devem estar traduzidas para o inglês, visando a acessibilidade internacional.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram as visualizações.  
-- Feedback qualitativo (positivo/negativo) sobre gráficos e dashboards.  
-- Precisão e consistência dos dados exibidos.
+- **Qualidade das visualizações:** nível de clareza, interatividade e fluidez na navegação entre os dashboards.  
+- **Feedback dos usuários e avaliadores:** análise qualitativa da usabilidade e precisão das informações apresentadas.  
+- **Desempenho técnico:** tempo médio de carregamento dos gráficos e estabilidade durante as interações.  
+- **Consistência dos dados:** verificação de integridade após importação no Power BI.  
+- **Aderência ao objetivo pedagógico:** validação se o MVP atendeu às expectativas de aprendizado e aplicação prática da metodologia API/CDIO.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback dos usuários.  
-- Ajustes de usabilidade e layout das visualizações.  
-- Expansão de funcionalidades e dashboards para próximos incrementos.
-
+- Implementar novos painéis complementares com foco em métricas de exportação e importação detalhadas por categoria.  
+- Refinar a identidade visual das dashboards, aprimorando a estética e a disposição dos elementos gráficos.  
+- Automatizar parte do processo de atualização de dados, reduzindo a necessidade de importações manuais.  
+- Ampliar o escopo para incluir dados históricos e projeções futuras de comércio exterior.  
+- Publicar e documentar todas as entregas finais no GitHub, com vídeo demonstrativo e versões multilíngues das dashboards.  
 ---
 
 ## 📂 Anexos / Evidências
