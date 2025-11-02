@@ -89,7 +89,13 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela do dashboard.
+
+ ---
+ 
+![kauan codigo Sprint 2](https://github.com/user-attachments/assets/2221838c-1e1a-4b2d-8af7-34b9a40408ca)
+![kauan cogido Sprint2](https://github.com/user-attachments/assets/2d851c80-662d-4797-9f95-f04f3993f9d7)
+
+
 
   ---
   
