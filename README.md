@@ -50,9 +50,13 @@ O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodolo
 # 🎯 Objetivo do Projeto
 
 <p align="justify">
-O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
+O objetivo deste projeto é desenvolver uma plataforma de <b>Business Intelligence (BI)</b> que permita visualizar informações sobre o desempenho dos <b>Estados Brasileiros</b> e dos <b>municípios do Estado de São Paulo</b> no comércio exterior, com base nos dados abertos do <b>Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>.
+</p>
 
-Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em **ascensão, estagnação ou declínio** no mercado internacional.
+<p align="justify">
+Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em <b>ascensão</b>, <b>estagnação</b> ou <b>declínio</b> no mercado internacional.
+</p>
+
 
 ---
 
