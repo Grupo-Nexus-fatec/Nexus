@@ -17,32 +17,32 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 # 📊 Projeto (API)
 
 <p align="justify">
-O projeto tem como objetivo desenvolver uma plataforma de <b>Business Intelligence (BI)</b> para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do <b>Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>.  
-A ferramenta busca apoiar a tomada de decisão ao oferecer informações claras sobre municípios em ascensão, estagnação ou declínio no mercado internacional.  
+O projeto tem como objetivo desenvolver uma plataforma de **Business Intelligence (BI)** para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
 
-O desenvolvimento está inserido em um projeto pedagógico baseado na <b>Metodologia API</b>, que promove o aprendizado por meio de problemas reais (<b>RPBL</b>), validação externa e inteligência ágil, seguindo os princípios <b>CDIO</b> — Conceber, Desenvolver, Implementar e Operar.
-</p>
+A ferramenta busca apoiar a tomada de decisão ao fornecer informações claras sobre municípios em **ascensão, estagnação ou declínio** no mercado internacional.
 
+O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodologia API**, que promove o aprendizado por meio de problemas reais (**RPBL**), validação externa e inteligência ágil, seguindo os princípios **CDIO** — Conceber, Desenvolver, Implementar e Operar.
 
 ---
 
 # 👥 Equipe
-
-|    Função    | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Rodrigo Santos         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-luiz-santos-430081269) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigdinLogistico)              |
-| Scrum Master  | Kauan Souza |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kauan-souza-9247aa377) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/kauanzcsouza10-art?tab=overview&from=2025-09-01&to=2025-09-30)     |
-| Team Member   | Ana Clara Souza              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/ana-clara-dias-de-souza-927431179) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AninhaDias)        |
-|  Team Member  | Cauã Kadison                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/cauã-mota-854217309) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CauaKadson2003)        |
-|  Team Member  | Davi kitada                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davi-pais-340989359) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviPaisKitada)   |
-|  Team Member  | Mariana Leal       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create)          |
+| Função | Nome | LinkedIn & GitHub |
+| :---: | :--- | :--- |
+| Product Owner | Rodrigo Santos | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rodrigo-luiz-santos-430081269) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigdinLogistico) |
+| Scrum Master | Kauan Souza | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kauan-souza-9247aa377) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/kauanzcsouza10-art) |
+| Team Member | Ana Clara Souza | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/ana-clara-dias-de-souza-927431179) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AninhaDias) |
+| Team Member | Cauã Kadison | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/cau%C3%A3-mota-854217309) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CauaKadson2003) |
+| Team Member | Davi Kitada | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davi-pais-340989359) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviPaisKitada) |
+| Team Member | Mariana Leal | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create) |
 
 ---
 
 # 🎯 Objetivo do Projeto
 
 <p align="justify">
-O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos dos Estados Brasileiros e de municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional. 
+O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
+
+Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em **ascensão, estagnação ou declínio** no mercado internacional.
 
 ---
 
@@ -55,6 +55,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 ### Tecnologias Principais
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+
 ---
 
 # 🗂 Backlog do Produto
@@ -74,12 +75,14 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | 12 | Média | Como gestor, quero gráficos comparativos das regiões que mais exportam e dos produtos exportados. | 3 | 3 | Planejado |
 | 13 | Média | Como gestor, quero gráficos comparativos de valores entre as cidades de São Paulo, para avaliar desempenho. | 2 | 3 | Planejado |
 
-# 📅 Registro das Sprints
+---
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 | 29/09/2025 | Concluida | [MVP](https://github.com//Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp1.md) | 
-|02|  03/11/2025| a fazer|[MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp3.md) | 
-|Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
+# 📅 Registro das Sprints
+| Sprint | Previsão | Status | Histórico |
+|--------|----------|--------|-----------|
+| 01 | 29/09/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp1.md) | 
+| 02 | 03/11/2025 | A fazer | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) | 
+| 03 | dd/mm/aaaa | A fazer | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp3.md) | 
+| Feira de Soluções | 04/12/2025 | A fazer | Link a ser inserido |
+
 
