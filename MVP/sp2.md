@@ -82,11 +82,13 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 ---
 
 ## 🚀 Próximos Passos
-- Implementar novos painéis complementares com foco em métricas de exportação e importação detalhadas por categoria.  
-- Refinar a identidade visual das dashboards, aprimorando a estética e a disposição dos elementos gráficos.  
-- Automatizar parte do processo de atualização de dados, reduzindo a necessidade de importações manuais.  
-- Ampliar o escopo para incluir dados históricos e projeções futuras de comércio exterior.  
-- Publicar e documentar todas as entregas finais no GitHub, com vídeo demonstrativo e versões multilíngues das dashboards.  
+- Garantir **acurácia máxima dos dados** apresentados nos dashboards, validando todas as fontes e consolidações.  
+- Desenvolver **novas visualizações focadas nas cidades do estado de São Paulo**, destacando as que mais exportam e importam.  
+- Incluir **análises detalhadas dos itens mais comercializados por cidade**, permitindo identificar padrões e cadeias produtivas.  
+- Adicionar **gráficos comparativos por tipo de operação** (importação/exportação) entre os estados brasileiros.  
+- Implementar **interatividade avançada nos dashboards**, possibilitando ao usuário selecionar categorias e explorar dados relacionados de forma dinâmica.  
+- Criar **módulo de análise de preço médio por NCM** (US$/ton ou US$/unidade) para apoiar avaliações econômicas e comerciais.  
+- Preparar documentação final e atualização visual dos dashboards para publicação no GitHub e demonstração final do MVP.  
 ---
 
 ## 📂 Anexos / Evidências
