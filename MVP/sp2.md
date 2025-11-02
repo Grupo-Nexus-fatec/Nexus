@@ -61,54 +61,41 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 | 05     | Power Point              | Em andamento|
 
 ---
-
-## 🧩 Relatório de Desenvolvimento – Sprint 2
-### **1. Introdução**
-Nesta etapa do projeto (Sprint 2), foi realizada a criação de dashboards interativas no Power BI Desktop, com base nos dados previamente tratados e preparados na fase anterior.
-
-### **2. Processamento e Importação dos Dados**
-Após o tratamento e limpeza dos dados, os arquivos finais foram exportados e importados para o Power BI Desktop, dando início ao processo de construção das dashboards.
-
-### **3. Desenvolvimento das Dashboards**
-Utilizando os recursos visuais do Power BI, foram criadas interfaces interativas que permitem a integração entre diferentes gráficos, facilitando a análise cruzada das informações.  
-Durante o desenvolvimento, buscou-se selecionar visualizadores que proporcionassem clareza e objetividade, priorizando a interpretação visual rápida dos dados.
-
-### **4. Personalização e Estilo Visual**
-Após a montagem da estrutura principal, foi realizada a personalização estética das dashboards, ajustando cores, formatos e disposições de elementos para tornar a interface mais intuitiva e visualmente agradável.
-
-### **5. Estrutura Final**
-Foram desenvolvidas duas dashboards principais:
-- **Dashboard 1:** Análise de dados por estados.  
-- **Dashboard 2:** Análise de dados por municípios.  
-
-### **6. Conclusão e Entrega**
-Com a finalização das dashboards, foi realizada a gravação demonstrativa do funcionamento das interfaces, posteriormente disponibilizada no GitHub para documentação do projeto.  
-Além disso, foi feita a tradução completa das dashboards para o idioma inglês, visando a apresentação e divulgação internacional do trabalho.
-
----
-
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize comparativos e rankings de forma clara.  
-- O sistema deve registrar e organizar os dados importados corretamente.  
-- Métricas coletadas: tempo de visualização, número de erros na exibição, feedback dos usuários.
+- As dashboards devem ser totalmente interativas, permitindo a análise cruzada entre diferentes gráficos e indicadores.  
+- O sistema deve apresentar dados consistentes, sem falhas na importação ou divergências entre os conjuntos de dados.  
+- O layout visual deve ser claro, responsivo e esteticamente alinhado com o tema do projeto Nexus.  
+- O Power BI deve possibilitar a comparação entre estados, municípios, categorias de itens e países importadores de forma intuitiva.  
+- Todas as visualizações devem estar traduzidas para o inglês, visando a acessibilidade internacional.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram as visualizações.  
-- Feedback qualitativo (positivo/negativo) sobre gráficos e dashboards.  
-- Precisão e consistência dos dados exibidos.
+- **Qualidade das visualizações:** nível de clareza, interatividade e fluidez na navegação entre os dashboards.  
+- **Feedback dos usuários e avaliadores:** análise qualitativa da usabilidade e precisão das informações apresentadas.  
+- **Desempenho técnico:** tempo médio de carregamento dos gráficos e estabilidade durante as interações.  
+- **Consistência dos dados:** verificação de integridade após importação no Power BI.  
+- **Aderência ao objetivo pedagógico:** validação se o MVP atendeu às expectativas de aprendizado e aplicação prática da metodologia API/CDIO.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback dos usuários.  
-- Ajustes de usabilidade e layout das visualizações.  
-- Expansão de funcionalidades e dashboards para próximos incrementos.
+- Implementar novos painéis complementares com foco em métricas de exportação e importação detalhadas por categoria.  
+- Refinar a identidade visual das dashboards, aprimorando a estética e a disposição dos elementos gráficos.  
+- Automatizar parte do processo de atualização de dados, reduzindo a necessidade de importações manuais.  
+- Ampliar o escopo para incluir dados históricos e projeções futuras de comércio exterior.  
+- Publicar e documentar todas as entregas finais no GitHub, com vídeo demonstrativo e versões multilíngues das dashboards.  
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela do dashboard.  
-- Fluxos ou protótipos detalhados.  
+- Prints de tela do dashboard.
+
+  ---
+  
+-   ![kauan power bi Sprit 2](https://github.com/user-attachments/assets/59ff854a-4bc8-477d-a3f6-6c068f06f280)
+-   ![kauan power bi Sprint 2 ,](https://github.com/user-attachments/assets/9aa3cb61-694f-43b9-beff-20559fe09c56)
+
+---
+
 - Vídeo demonstrativo do MVP em operação.
