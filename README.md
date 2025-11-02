@@ -16,9 +16,10 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 
 <!-- Anchor for sections to ensure index links work -->
 <a name="projeto"></a>
-<p align="justify">
+
 # 📊 Projeto (API)
 
+<p align="justify">
 O projeto tem como objetivo desenvolver uma plataforma de **Business Intelligence (BI)** para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
 
 A ferramenta busca apoiar a tomada de decisão ao fornecer informações claras sobre municípios em **ascensão, estagnação ou declínio** no mercado internacional.
@@ -41,9 +42,10 @@ O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodolo
 ---
 
 <a name="objetivo-do-projeto"></a>
-<p align="justify">
+
 # 🎯 Objetivo do Projeto
 
+<p align="justify">
 O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
 
 Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em **ascensão, estagnação ou declínio** no mercado internacional.
