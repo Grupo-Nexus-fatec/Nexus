@@ -1,45 +1,45 @@
 # 📌 MVP - Nexus
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+<p align="center">
 - **Qual problema resolve?**  
-  * Dados de comércio exterior estão dispersos e pouco organizados, dificultando a análise estratégica por estados, países e categorias de itens.  
+  Dados de comércio exterior estão dispersos e pouco organizados, dificultando a análise estratégica por estados, países e categorias de itens.<br><br>
 - **Qual hipótese será validada?**  
-  * Organizar e apresentar os dados de forma estruturada e visual no Power BI permite que clientes e desenvolvedores identifiquem padrões de exportação e importação de maneira clara e eficiente.  
+  Organizar e apresentar os dados de forma estruturada e visual no Power BI permite que clientes e desenvolvedores identifiquem padrões de exportação e importação de maneira clara e eficiente.<br><br>
 - **Qual valor será entregue ao usuário final?**  
-  * Dashboards interativos com comparativos entre estados, ranking de itens exportados, categorias mais exportadas, países importadores e modalidade de transporte, facilitando decisões estratégicas e análises logísticas.
+  Dashboards interativos com comparativos entre estados, ranking de itens exportados, categorias mais exportadas, países importadores e modalidade de transporte, facilitando decisões estratégicas e análises logísticas.
+</p>
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- **Funcionalidades principais incluídas**  
-  * Dashboard com visualizações comparativas entre estados que mais exportam e importam.  
-  * Rankings de itens exportados por estado, considerando valor e peso.  
-  * Visualização das categorias de itens mais exportados.  
-  * Visualização dos países que mais importam do Brasil.  
-  * Comparativos em ranking por país, valores importados, categoria de item e modalidade de transporte.  
-  * Formatação de dados consistente para facilitar interpretação e análise.  
-
-- **Limitações conhecidas**  
-  * Algumas informações podem depender de atualização manual dos dados.  
-  * Visualizações avançadas ainda estão sendo refinadas para usabilidade e clareza.  
-
-- **Escopo reduzido**  
-  * Implementação inicial dos dashboards principais para validar a apresentação e análise dos dados estratégicos.
+<p align="center">
+- **Funcionalidades principais incluídas**<br>
+  Dashboard com visualizações comparativas entre estados que mais exportam e importam.<br>
+  Rankings de itens exportados por estado, considerando valor e peso.<br>
+  Visualização das categorias de itens mais exportados.<br>
+  Visualização dos países que mais importam do Brasil.<br>
+  Comparativos em ranking por país, valores importados, categoria de item e modalidade de transporte.<br>
+  Formatação de dados consistente para facilitar interpretação e análise.<br><br>
+- **Limitações conhecidas**<br>
+  Algumas informações podem depender de atualização manual dos dados.<br>
+  Visualizações avançadas ainda estão sendo refinadas para usabilidade e clareza.<br><br>
+- **Escopo reduzido**<br>
+  Implementação inicial dos dashboards principais para validar a apresentação e análise dos dados estratégicos.
+</p>
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-<p align="justify">
-* Carlos Bastos/José Jaétis: Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
-
-<p align="justify">
-Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
+<p align="center">
+Carlos Bastos/José Jaétis: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.<br><br>
+Marcus Nascimento: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
+</p>
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
+<p align="center">
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como desenvolvedor, quero fornecer dados com boa formatação para facilitar a visualização. | Alta       | 5 pontos   |
@@ -48,10 +48,12 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 | US4 | Como cliente, quero visualizar os países que mais importam do Brasil. | Média      | 3 pontos   |
 | US5 | Como cliente, quero visualizar por ranking de cada estado, os itens mais exportados em valor e peso. | Média      | 3 pontos   |
 | US6 | Como cliente, quero visualizar comparativos em ranking dos países que mais importam, valores importados, categoria de item e modalidade de transporte. | Média      | 3 pontos   |
+</p>
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
+<p align="center">
 | Sprint | Entregas Principais       | Status       |
 |--------|--------------------------|-------------|
 | 01     | Python e PowerBI         | Concluído   |
@@ -59,39 +61,48 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 | 03     | PowerBI                  | Concluído   |
 | 04     | PowerBI                  | Concluído   |
 | 05     | Power Point              | Em andamento|
-
+</p>
 
 ---
 
 ## 📊 Critérios de Aceitação
-- As dashboards devem ser totalmente interativas, permitindo a análise cruzada entre diferentes gráficos e indicadores.  
-- O sistema deve apresentar dados consistentes, sem falhas na importação ou divergências entre os conjuntos de dados.  
-- O layout visual deve ser claro, responsivo e esteticamente alinhado com o tema do projeto Nexus.  
-- O Power BI deve possibilitar a comparação entre estados, municípios, categorias de itens e países importadores de forma intuitiva.  
-- Todas as visualizações devem estar traduzidas para o inglês, visando a acessibilidade internacional.  
+<p align="center">
+- As dashboards devem ser totalmente interativas, permitindo a análise cruzada entre diferentes gráficos e indicadores.<br>
+- O sistema deve apresentar dados consistentes, sem falhas na importação ou divergências entre os conjuntos de dados.<br>
+- O layout visual deve ser claro, responsivo e esteticamente alinhado com o tema do projeto Nexus.<br>
+- O Power BI deve possibilitar a comparação entre estados, municípios, categorias de itens e países importadores de forma intuitiva.<br>
+- Todas as visualizações devem estar traduzidas para o inglês, visando a acessibilidade internacional.
+</p>
 
 ---
 
 ## 📈 Métricas de Validação
-- **Qualidade das visualizações:** nível de clareza, interatividade e fluidez na navegação entre os dashboards.  
-- **Feedback dos usuários e avaliadores:** análise qualitativa da usabilidade e precisão das informações apresentadas.  
-- **Desempenho técnico:** tempo médio de carregamento dos gráficos e estabilidade durante as interações.  
-- **Consistência dos dados:** verificação de integridade após importação no Power BI.  
-- **Aderência ao objetivo pedagógico:** validação se o MVP atendeu às expectativas de aprendizado e aplicação prática da metodologia API/CDIO.  
+<p align="center">
+- Qualidade das visualizações: nível de clareza, interatividade e fluidez na navegação entre os dashboards.<br>
+- Feedback dos usuários e avaliadores: análise qualitativa da usabilidade e precisão das informações apresentadas.<br>
+- Desempenho técnico: tempo médio de carregamento dos gráficos e estabilidade durante as interações.<br>
+- Consistência dos dados: verificação de integridade após importação no Power BI.<br>
+- Aderência ao objetivo pedagógico: validação se o MVP atendeu às expectativas de aprendizado e aplicação prática da metodologia API/CDIO.
+</p>
 
 ---
 
 ## 🚀 Próximos Passos
-- Garantir **acurácia máxima dos dados** apresentados nos dashboards, validando todas as fontes e consolidações.  
-- Desenvolver **novas visualizações focadas nas cidades do estado de São Paulo**, destacando as que mais exportam e importam.  
-- Incluir **análises detalhadas dos itens mais comercializados por cidade**, permitindo identificar padrões e cadeias produtivas.  
-- Adicionar **gráficos comparativos por tipo de operação** (importação/exportação) entre os estados brasileiros.  
-- Implementar **interatividade avançada nos dashboards**, possibilitando ao usuário selecionar categorias e explorar dados relacionados de forma dinâmica.  
-- Criar **módulo de análise de preço médio por NCM** (US$/ton ou US$/unidade) para apoiar avaliações econômicas e comerciais.  
-- Preparar documentação final e atualização visual dos dashboards para publicação no GitHub e demonstração final do MVP.  
+<p align="center">
+- Garantir acurácia máxima dos dados apresentados nos dashboards, validando todas as fontes e consolidações.<br>
+- Desenvolver novas visualizações focadas nas cidades do estado de São Paulo, destacando as que mais exportam e importam.<br>
+- Incluir análises detalhadas dos itens mais comercializados por cidade, permitindo identificar padrões e cadeias produtivas.<br>
+- Adicionar gráficos comparativos por tipo de operação (importação/exportação) entre os estados brasileiros.<br>
+- Implementar interatividade avançada nos dashboards, possibilitando ao usuário selecionar categorias e explorar dados relacionados de forma dinâmica.<br>
+- Criar módulo de análise de preço médio por NCM (US$/ton ou US$/unidade) para apoiar avaliações econômicas e comerciais.<br>
+- Preparar documentação final e atualização visual dos dashboards para publicação no GitHub e demonstração final do MVP.
+</p>
+
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela do dashboard.  
-- Fluxos ou protótipos detalhados.  
+<p align="center">
+- Prints de tela do dashboard.<br>
+- Fluxos ou protótipos detalhados.<br>
 - Vídeo demonstrativo do MVP em operação.
+</p>
