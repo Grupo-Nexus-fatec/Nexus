@@ -5,7 +5,7 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 ---
 
 # 📑 Índice
-* [Projeto](#projeto-api)
+* [Projeto](#projeto)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -14,9 +14,10 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 
 ---
 
+<!-- Anchor for sections to ensure index links work -->
+<a name="projeto"></a>
 # 📊 Projeto (API)
 
-<p align="justify">
 O projeto tem como objetivo desenvolver uma plataforma de **Business Intelligence (BI)** para visualizar e analisar o desempenho dos Estados Brasileiros e dos municípios paulistas no comércio exterior, utilizando dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
 
 A ferramenta busca apoiar a tomada de decisão ao fornecer informações claras sobre municípios em **ascensão, estagnação ou declínio** no mercado internacional.
@@ -25,6 +26,7 @@ O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodolo
 
 ---
 
+<a name="equipe"></a>
 # 👥 Equipe
 | Função | Nome | LinkedIn & GitHub |
 | :---: | :--- | :--- |
@@ -37,15 +39,16 @@ O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodolo
 
 ---
 
+<a name="objetivo-do-projeto"></a>
 # 🎯 Objetivo do Projeto
 
-<p align="justify">
 O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
 
 Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em **ascensão, estagnação ou declínio** no mercado internacional.
 
 ---
 
+<a name="tecnologias-utilizadas"></a>
 # 🛠 Tecnologias Utilizadas
 
 ### Tecnologias de Apoio
@@ -58,6 +61,7 @@ Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis,
 
 ---
 
+<a name="backlog-do-produto"></a>
 # 🗂 Backlog do Produto
 | Rank | Prioridade | User Story | Estimativa | Sprint | Status |
 |------|-----------|------------|------------|--------|--------|
@@ -77,6 +81,7 @@ Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis,
 
 ---
 
+<a name="registro-das-sprints"></a>
 # 📅 Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
