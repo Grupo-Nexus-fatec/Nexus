@@ -42,12 +42,12 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como desenvolvedor, quero fornecer dados com boa formatação para facilitar a visualização. | Alta       | 5 pontos   |
-| US2 | Como cliente, quero visualizar comparativos entre os estados que mais exportam e importam. | Alta       | 5 pontos   |
-| US3 | Como cliente, quero visualizar as categorias de itens que mais foram exportados. | Média      | 3 pontos   |
-| US4 | Como cliente, quero visualizar os países que mais importam do Brasil. | Média      | 3 pontos   |
-| US5 | Como cliente, quero visualizar por ranking de cada estado, os itens mais exportados em valor e peso. | Média      | 3 pontos   |
-| US6 | Como cliente, quero visualizar comparativos em ranking dos países que mais importam, valores importados, categoria de item e modalidade de transporte. | Média      | 3 pontos   |
+| US1 | Como desenvolvedor, quero fornecer dados com boa formatação para facilitar a visualização. | Alta       | 12 Horas   |
+| US2 | Como cliente, quero visualizar comparativos entre os estados que mais exportam e importam. | Alta       | 3 Horas    |
+| US3 | Como cliente, quero visualizar as categorias de itens que mais foram exportados. | Média      | 2 Horas    |
+| US4 | Como cliente, quero visualizar os países que mais importam do Brasil. | Média      | 2 Horas    |
+| US5 | Como cliente, quero visualizar por ranking de cada estado, os itens mais exportados em valor e peso. | Média      | 2 Horas    |
+| US6 | Como cliente, quero visualizar comparativos em ranking dos países que mais importam, valores importados, categoria de item e modalidade de transporte. | Média      | 3 Horas    |
 
 ---
 
