@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
+* [Sprints](# 🗂 Backlog do Produto)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
