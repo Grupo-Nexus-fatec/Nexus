@@ -4,13 +4,13 @@ Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proativid
 
 ---
 
-# Índice
-* [Projeto](#projeto-template)
+# 📑 Índice
+* [Projeto](#projeto-api)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#Burndown)
-
+* [Registro das Sprints](#registro-das-sprints)
 
 ---
 
