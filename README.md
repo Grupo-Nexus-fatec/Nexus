@@ -45,16 +45,15 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 ---
 
-## Tecnologias Utilizadas
+# 🛠 Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio 
- 
-<img width="40" height="40" alt="github-sign" src="https://github.com/user-attachments/assets/1dc04ee5-999e-4322-b005-3e7bf6e705b2" /><img width="40" height="40" alt="jira" src="https://github.com/user-attachments/assets/f55c08c7-66a4-41c3-9a96-c82942f41dc5" />
+### Tecnologias de Apoio
+![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
- ### Tecnologias da Informação 
- 
-<img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/99ba87a2-66ce-421e-b96a-2ffc79e35db0" /><img width="40" height="40" alt="icons8-poder-bi-2021-48" src="https://github.com/user-attachments/assets/1f3c633a-190c-4bde-ba36-977af8be7e26" />
-
+### Tecnologias Principais
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
 ---
 
 # Backlog do produto
