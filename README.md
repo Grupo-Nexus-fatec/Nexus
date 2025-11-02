@@ -74,7 +74,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | 12 | Média | Como gestor, quero gráficos comparativos das regiões que mais exportam e dos produtos exportados. | 3 | 3 | Planejado |
 | 13 | Média | Como gestor, quero gráficos comparativos de valores entre as cidades de São Paulo, para avaliar desempenho. | 2 | 3 | Planejado |
 
-# Registro das Sprints
+# 📅 Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
