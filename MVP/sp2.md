@@ -1,7 +1,6 @@
 # 📌 MVP - Nexus
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
 - **Qual problema resolve?**  
   * Dados de comércio exterior estão dispersos e pouco organizados, dificultando a análise estratégica por estados, países e categorias de itens.  
 - **Qual hipótese será validada?**  
@@ -12,7 +11,6 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - **Funcionalidades principais incluídas**  
   * Dashboard com visualizações comparativas entre estados que mais exportam e importam.  
   * Rankings de itens exportados por estado, considerando valor e peso.  
