@@ -102,6 +102,6 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 
 ---
 
-- Vídeo demonstrativo: https:
+- Vídeo demonstrativo:
 - https://youtu.be/xoiY6JCZg_Y?si=rLX2KEMUK_dnHVYs
 - https://youtu.be/6wq_MKXxXnQ?si=wxVY6dGx6RgPl6lx
