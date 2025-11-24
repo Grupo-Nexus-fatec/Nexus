@@ -3,9 +3,10 @@
 ## 🎯 Objetivo do MVP
 - Qual problema resolve?
   * A Sprint 3 aborda a ausência de uma visão integrada e analítica do comércio exterior, que atualmente dificulta a tomada de decisões estratégicas e logísticas.
-- Qual hipótese será validada?  
+- Qual hipótese será validada?
+  * Os dados consolidados de 2023 a 2025 evidenciam padrões que permitem identificar o modal mais eficiente e os países parceiros com maior potencial de crescimento.
 - Qual valor será entregue ao usuário final?  
-
+  * Proporciona uma visão clara e consolidada do comércio exterior, permitindo identificar os modais mais eficientes, acompanhar tendências de mercado e destacar oportunidades estratégicas por meio de dashboards.
 ---
 
 ## 📝 Descrição da Solução
