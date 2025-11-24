@@ -10,16 +10,19 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Funcionalidades principais incluídas
+  * Consolidação dos dados, análise de volumes por modal, identificação dos modais predominantes por país parceiro e desenvolvimento de dashboards com tendências e rankings de crescimento.
+- Limitações conhecidas
+  * Os custos dos modais são estimativos, alguns países apresentam dados incompletos e os dashboards oferecem recursos básicos, limitando-se à análise histórica.
+- Escopo reduzido
+  * Tratamento e consolidação dos dados, com foco nos países e modais mais utilizados, além de um dashboard inicial com métricas básicas para validação da ideia.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+* Carlos Bastos/José Jaétis: Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
+
+* Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
 
 ---
 
