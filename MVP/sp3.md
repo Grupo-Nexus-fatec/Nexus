@@ -1,8 +1,8 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
+- Qual problema resolve?
+  * A Sprint 3 aborda a ausência de uma visão integrada e analítica do comércio exterior, que atualmente dificulta a tomada de decisões estratégicas e logísticas.
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
 
