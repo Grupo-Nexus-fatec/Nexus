@@ -99,7 +99,7 @@ Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis,
 |--------|----------|--------|-----------|
 | 01 | 29/09/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp1.md) | 
 | 02 | 03/11/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) | 
-| 03 | dd/mm/aaaa | A fazer | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp3.md) | 
+| 03 | 28/11/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp3.md) | 
 | Feira de Soluções | 04/12/2025 | A fazer | Link a ser inserido |
 
 
