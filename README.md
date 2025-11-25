@@ -1,105 +1,160 @@
+<div align="center">
+
 # 📌 Aprendizado por Projeto Integrador (API)
 
-Projeto baseado na metodologia ágil **SCRUM**, buscando desenvolver **Proatividade, Autonomia, Colaboração e Entrega de Resultados** dos estudantes envolvidos.
+Projeto desenvolvido com base na metodologia ágil **SCRUM**, promovendo o desenvolvimento de habilidades essenciais como **Proatividade**, **Autonomia**, **Colaboração**, **Gestão de Tempo** e **Entrega Contínua de Resultados**.  
+Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de **Análise de Dados** e **Business Intelligence**.
 
 ---
 
 # 📑 Índice
-* [Projeto](#projeto)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Backlog do Produto](#backlog-do-produto)
-* [Registro das Sprints](#registro-das-sprints)
+| Seção | Link |
+|------|------|
+| 📊 Projeto | [Clique aqui](#projeto) |
+| 👥 Equipe | [Clique aqui](#equipe) |
+| 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
+| 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
+| 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
+| 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
 
 ---
 
-<!-- Anchor for sections to ensure index links work -->
+</div>
+
 <a name="projeto"></a>
+
+<div align="center">
 
 # 📊 Projeto (API)
 
-O projeto tem como objetivo desenvolver uma plataforma de **Business Intelligence (BI)** para visualizar e analisar o desempenho dos **Estados Brasileiros** e dos **municípios paulistas** no comércio exterior, utilizando dados abertos do **Ministério do Desenvolvimento, Indústria, Comércio e Serviços**.  
+</div>
 
-A ferramenta busca apoiar a tomada de decisão ao oferecer informações claras sobre municípios em ascensão, estagnação ou declínio no mercado internacional.  
+O projeto visa a criação de uma plataforma de **Business Intelligence (BI)** focada na análise do desempenho dos **Estados Brasileiros** e dos **municípios do Estado de São Paulo** no comércio exterior.  
+A solução utiliza dados públicos disponibilizados pelo **Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)**, garantindo transparência e confiabilidade nas análises realizadas.
 
-O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodologia API**, que promove o aprendizado por meio de problemas reais (**RPBL**), validação externa e inteligência ágil, seguindo os princípios **CDIO** — Conceber, Desenvolver, Implementar e Operar.
+<p align="justify">
+A plataforma fornece uma visão estratégica que permite identificar municípios e estados em diferentes estágios de evolução comercial, como <b>crescimento</b>, <b>estagnação</b> ou <b>declínio</b>. O BI também destaca padrões de exportação e importação, distribuídos por categorias de produtos, modais logísticos, valores transacionados e principais parceiros internacionais.
+</p>
 
-
-A ferramenta busca apoiar a tomada de decisão ao fornecer informações claras sobre municípios em **ascensão, estagnação ou declínio** no mercado internacional.
-
-O desenvolvimento está inserido em um projeto pedagógico baseado na **Metodologia API**, que promove o aprendizado por meio de problemas reais (**RPBL**), validação externa e inteligência ágil, seguindo os princípios **CDIO** — Conceber, Desenvolver, Implementar e Operar.
+<p align="justify">
+O desenvolvimento segue a estrutura da <b>Metodologia API</b>, baseada no <b>Aprendizado por Projetos</b> e na <b>Inteligência Ágil</b>, onde problemas reais são processados por meio de investigação, planejamento, testes, validações externas e revisão contínua. Aliado a isso, o projeto foi construído respeitando os pilares do método <b>CDIO</b> — <i>Conceber, Desenvolver, Implementar e Operar</i>.
+</p>
 
 ---
 
 <a name="equipe"></a>
+
+<div align="center">
+
 # 👥 Equipe
+
+</div>
+
 | Função | Nome | LinkedIn & GitHub |
 | :---: | :--- | :--- |
-| Product Owner | Rodrigo Santos | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rodrigo-luiz-santos-430081269) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigdinLogistico) |
-| Scrum Master | Kauan Souza | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kauan-souza-9247aa377) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/kauanzcsouza10-art) |
-| Team Member | Ana Clara Souza | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/ana-clara-dias-de-souza-927431179) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AninhaDias) |
-| Team Member | Cauã Kadison | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/cau%C3%A3-mota-854217309) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CauaKadson2003) |
-| Team Member | Davi Kitada | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davi-pais-340989359) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviPaisKitada) |
-| Team Member | Mariana Leal | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create) |
+| **Product Owner** | Rodrigo Santos | [LinkedIn](https://linkedin.com/in/rodrigo-luiz-santos-430081269) · [GitHub](https://github.com/DigdinLogistico) |
+| **Scrum Master** | Kauan Souza | [LinkedIn](https://linkedin.com/in/kauan-souza-9247aa377) · [GitHub](https://github.com/kauanzcsouza10-art) |
+| **Team Member** | Ana Clara Souza | [LinkedIn](http://linkedin.com/in/ana-clara-dias-de-souza-927431179) · [GitHub](https://github.com/AninhaDias) |
+| **Team Member** | Cauã Kadison | [LinkedIn](http://linkedin.com/in/cau%C3%A3-mota-854217309) · [GitHub](https://github.com/CauaKadson2003) |
+| **Team Member** | Davi Kitada | [LinkedIn](https://linkedin.com/in/davi-pais-340989359) · [GitHub](https://github.com/DaviPaisKitada) |
+| **Team Member** | Mariana Leal | [LinkedIn](https://linkedin.com/in/mariana-leal-a708b8335) · [GitHub](https://github.com/marileal071415-create) |
 
 ---
 
 <a name="objetivo-do-projeto"></a>
 
+<div align="center">
+
 # 🎯 Objetivo do Projeto
 
+</div>
+
 <p align="justify">
-O objetivo deste projeto é desenvolver uma plataforma de <b>Business Intelligence (BI)</b> que permita visualizar informações sobre o desempenho dos <b>Estados Brasileiros</b> e dos <b>municípios do Estado de São Paulo</b> no comércio exterior, com base nos dados abertos do <b>Ministério do Desenvolvimento, Indústria, Comércio e Serviços</b>.
+O objetivo principal é criar uma solução de <b>Business Intelligence</b> capaz de transformar dados brutos do comércio exterior brasileiro em uma interface visual clara e intuitiva, permitindo análises rápidas e detalhadas. 
 </p>
 
 <p align="justify">
-Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em <b>ascensão</b>, <b>estagnação</b> ou <b>declínio</b> no mercado internacional.
+A plataforma busca apoiar pesquisas acadêmicas, empresas privadas, órgãos governamentais e profissionais da área de comércio exterior, oferecendo informações como:
 </p>
 
+- Análises de exportações e importações por ano.  
+- Comparativas entre estados e municípios.  
+- Produtos mais comercializados.  
+- Principais parceiros internacionais.  
+- Modal logístico utilizado.  
+- Pesos, fretes e categorias mercadológicas.  
+
+<p align="justify">
+Com isso, espera-se criar uma ferramenta que ajude a compreender o comportamento econômico do Brasil e apoiar tomadas de decisão mais eficazes.
+</p>
 
 ---
 
 <a name="tecnologias-utilizadas"></a>
+
+<div align="center">
+
 # 🛠 Tecnologias Utilizadas
 
-### Tecnologias de Apoio
+</div>
+
+### **Tecnologias de Apoio**
+ 
 ![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-### Tecnologias Principais
+</div>
+
+### **Tecnologias Principais**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+
+</div>
 
 ---
 
 <a name="backlog-do-produto"></a>
+
+<div align="center">
+
 # 🗂 Backlog do Produto
+
+</div>
+
+
 | Rank | Prioridade | User Story | Estimativa | Sprint | Status |
 |------|-----------|------------|------------|--------|--------|
-| 1 | Alta | Como cliente, quero um panorama sintético do comércio exterior brasileiro entre 2023 e 2025, analisando exportações e importações para apoiar decisões de políticas públicas. | 3 | 1 | Planejado |
-| 2 | Alta | Como usuário, quero que a base de dados contenha as tabelas de 2023, 2024 e 2025, e permita escolher o ano a ser exibido. | 2 | 1 | Planejado |
-| 3 | Alta | Como usuário, quero receber os dados tratados com nomenclaturas completas (sem códigos), para facilitar a interpretação. | 2 | 1 | Planejado |
-| 4 | Média | Como tomador de decisão, quero visualizar dados de categoria do item, peso, frete e modal utilizado, para avaliar a logística. | 3 | 1 | Planejado |
-| 5 | Alta | Como usuário, quero um dashboard interativo no Power BI para visualizar os dados tratados. | 3 | 2 | Planejado |
-| 6 | Média | Como usuário, quero filtros de estado e município para análise de importação e exportação. | 2 | 2 | Planejado |
-| 7 | Média | Como analista, quero comparar os estados que mais exportam e importam, identificando os líderes do comércio exterior. | 2 | 2 | Planejado |
-| 8 | Alta | Como usuário, quero visualizar as categorias de itens mais exportados e seus principais destinos. | 2 | 3 | Planejado |
-| 9 | Média | Como usuário, quero identificar os países que mais importam do Brasil e os itens correspondentes. | 2 | 3 | Planejado |
-| 10 | Alta | Como analista, quero identificar as cidades com maior volume de exportação e importação em São Paulo. | 3 | 3 | Planejado |
-| 11 | Média | Como analista, quero visualizar os itens mais comercializados pelas cidades de São Paulo. | 2 | 3 | Planejado |
-| 12 | Média | Como gestor, quero gráficos comparativos das regiões que mais exportam e dos produtos exportados. | 3 | 3 | Planejado |
-| 13 | Média | Como gestor, quero gráficos comparativos de valores entre as cidades de São Paulo, para avaliar desempenho. | 2 | 3 | Planejado |
+| 1 | Alta | Como cliente, quero um panorama do comércio exterior brasileiro entre 2023 e 2025, permitindo identificar tendências econômicas e apoiar decisões de políticas públicas. | 3 | 1 | Planejado |
+| 2 | Alta | Como usuário, quero uma base de dados unificada com tabelas de 2023, 2024 e 2025 para facilitar comparações e análises históricas. | 2 | 1 | Planejado |
+| 3 | Alta | Como usuário, quero nomenclaturas completas nos dados tratados, eliminando códigos e siglas técnicas. | 2 | 1 | Planejado |
+| 4 | Média | Como tomador de decisão, quero visualizar dados sobre peso, categoria, frete e modal logístico. | 3 | 1 | Planejado |
+| 5 | Alta | Como usuário, quero um dashboard completo no Power BI que apresente gráficos interativos e filtros inteligentes. | 3 | 2 | Planejado |
+| 6 | Média | Como usuário, quero filtros dinâmicos de estado e município para aprofundar a análise. | 2 | 2 | Planejado |
+| 7 | Média | Como analista, quero visualizar comparativos entre estados líderes em exportações e importações. | 2 | 2 | Planejado |
+| 8 | Alta | Como usuário, quero visualizar categorias de itens mais exportados pelos estados brasileiros. | 2 | 3 | Planejado |
+| 9 | Média | Como usuário, quero identificar os países que mais importam produtos brasileiros. | 2 | 3 | Planejado |
+| 10 | Alta | Como analista, quero visualizar as cidades com maior movimentação comercial em SP. | 3 | 3 | Planejado |
+| 11 | Média | Como analista, quero visualizar os itens mais comercializados pelos municípios paulistas. | 2 | 3 | Planejado |
+| 12 | Média | Como gestor, quero gráficos comparativos sobre regiões que mais exportam por categoria de produto. | 3 | 3 | Planejado |
+| 13 | Média | Como gestor, quero gráficos comparativos sobre valores movimentados entre os municípios paulistas. | 2 | 3 | Planejado |
 
 ---
 
 <a name="registro-das-sprints"></a>
+
+<div align="center">
+
 # 📅 Registro das Sprints
+
+</div>
+
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
-| 01 | 29/09/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp1.md) | 
-| 02 | 03/11/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) | 
-| 03 | 28/11/2025 | Concluída | [MVP](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp3.md) | 
-| Feira de Soluções | 04/12/2025 | A fazer | Link a ser inserido |
+| **01** | 29/09/2025 | Concluída | [Documentação da Sprint](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp1.md) |
+| **02** | 03/11/2025 | Concluída | [Documentação da Sprint](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp2.md) |
+| **03** | 28/11/2025 | Concluída | [Documentação da Sprint](https://github.com/Grupo-Nexus-fatec/Nexus/blob/main/MVP/sp3.md) |
+| **Feira de Soluções** | 04/12/2025 | A fazer | Link em desenvolvimento |
+
 
 
