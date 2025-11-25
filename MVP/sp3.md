@@ -1,4 +1,4 @@
-# 📌 MVP – Plataforma de Análise do Comércio Exterior
+# 📌 MVP - Nexus
 
 ## 🎯 Objetivo do MVP
 - **Qual problema resolve?**  
