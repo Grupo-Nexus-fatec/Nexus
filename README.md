@@ -99,18 +99,30 @@ Com isso, espera-se criar uma ferramenta que ajude a compreender o comportamento
 </div>
 
 ### **Tecnologias de Apoio**
- 
+
 ![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 
-</div>
+---
 
 ### **Tecnologias Principais**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
 
-</div>
+---
+
+### **Outras Ferramentas Utilizadas no Projeto**
+
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=flat-square&logo=google-docs&logoColor=white)
+
 
 ---
 
