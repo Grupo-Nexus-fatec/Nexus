@@ -35,8 +35,14 @@
 * Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
 
 ---
+<div align="center">
 
 ## 🔑 User Stories (Backlog do MVP)
+
+</div>
+
+<div align="center">
+
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como desenvolvedor, quero unificar os dados de exportação e importação dos anos 2023, 2024 e 2025. | Alta       | 13 Horas   |
