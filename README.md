@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 📌 Aprendizado por Projeto Integrador (API)
 
@@ -19,15 +19,14 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 
 ---
 
-</div>
 
 <a name="projeto"></a>
 
-<div align="center">
+
 
 # 📊 Projeto (API)
 
-</div>
+
 
 O projeto visa a criação de uma plataforma de **Business Intelligence (BI)** focada na análise do desempenho dos **Estados Brasileiros** e dos **municípios do Estado de São Paulo** no comércio exterior.  
 A solução utiliza dados públicos disponibilizados pelo **Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)**, garantindo transparência e confiabilidade nas análises realizadas.
@@ -44,11 +43,11 @@ O desenvolvimento segue a estrutura da <b>Metodologia API</b>, baseada no <b>Apr
 
 <a name="equipe"></a>
 
-<div align="center">
+
 
 # 👥 Equipe
 
-</div>
+
 
 | Função | Nome | LinkedIn & GitHub |
 | :---: | :--- | :--- |
@@ -63,11 +62,11 @@ O desenvolvimento segue a estrutura da <b>Metodologia API</b>, baseada no <b>Apr
 
 <a name="objetivo-do-projeto"></a>
 
-<div align="center">
+
 
 # 🎯 Objetivo do Projeto
 
-</div>
+
 
 <p align="justify">
 O objetivo principal é criar uma solução de <b>Business Intelligence</b> capaz de transformar dados brutos do comércio exterior brasileiro em uma interface visual clara e intuitiva, permitindo análises rápidas e detalhadas. 
@@ -92,11 +91,11 @@ Com isso, espera-se criar uma ferramenta que ajude a compreender o comportamento
 
 <a name="tecnologias-utilizadas"></a>
 
-<div align="center">
+
 
 # 🛠 Tecnologias Utilizadas
 
-</div>
+
 
 ### **Tecnologias de Apoio**
 
@@ -128,11 +127,10 @@ Com isso, espera-se criar uma ferramenta que ajude a compreender o comportamento
 
 <a name="backlog-do-produto"></a>
 
-<div align="center">
+
 
 # 🗂 Backlog do Produto
 
-</div>
 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Status |
@@ -155,11 +153,10 @@ Com isso, espera-se criar uma ferramenta que ajude a compreender o comportamento
 
 <a name="registro-das-sprints"></a>
 
-<div align="center">
+
 
 # 📅 Registro das Sprints
 
-</div>
 
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
