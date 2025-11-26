@@ -65,6 +65,8 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 | 04     | PowerBI                  | Concluído   |
 | 05     | Power Point              | Em andamento|
 
+</div>
+
 ---
 ## 📊 Critérios de Aceitação
 - As dashboards devem ser totalmente interativas, permitindo a análise cruzada entre diferentes gráficos e indicadores.  
