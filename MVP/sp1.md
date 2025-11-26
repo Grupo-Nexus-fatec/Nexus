@@ -67,6 +67,8 @@
 | 06     | Filtros Power BI                             | Concluído  |
 | 07     | PowerPoint                                   | Concluído  |
 
+</div>
+
 ---
 
 ## 📊 Critérios de Aceitação
