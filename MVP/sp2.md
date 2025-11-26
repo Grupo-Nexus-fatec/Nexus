@@ -44,6 +44,7 @@ Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio 
 </div>
 
 <div align="center">
+ 
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como desenvolvedor, quero fornecer dados com boa formatação para facilitar a visualização. | Alta       | 12 Horas   |
