@@ -133,5 +133,5 @@
 - Capturas de tela dos dashboards desenvolvidos.  
 - Protótipos utilizados nas etapas de design.  
 - Vídeo demonstrativo ilustrando a navegação e funcionalidades do MVP.  
-- Diagramas e fluxos de dados utilizados na modelagem.  
+  
 
